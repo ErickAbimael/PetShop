@@ -1,0 +1,17 @@
+[31-May-2021 16:13:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[31-May-2021 16:44:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[31-May-2021 17:25:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[31-May-2021 17:29:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[02-Jun-2021 16:47:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[02-Jun-2021 16:49:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[02-Jun-2021 16:57:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[02-Jun-2021 16:59:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[02-Jun-2021 17:00:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[02-Jun-2021 17:07:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[02-Jun-2021 17:18:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[07-Jun-2021 17:25:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index.php on line 3
+[07-Jun-2021 17:33:55 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/promay20/equipo11.prograweb.xyz/PetShop/src/Producto.php on line 91
+[07-Jun-2021 17:33:59 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/promay20/equipo11.prograweb.xyz/PetShop/src/Producto.php on line 91
+[07-Jun-2021 17:34:01 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/promay20/equipo11.prograweb.xyz/PetShop/src/Producto.php on line 91
+[07-Jun-2021 17:56:24 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index_tienda.php on line 74
+[07-Jun-2021 17:56:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/promay20/equipo11.prograweb.xyz/PetShop/modelo/index_tienda.php on line 74

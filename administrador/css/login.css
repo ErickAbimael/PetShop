@@ -1,0 +1,90 @@
+body{
+	background-color: rgb(255, 255, 255);
+}
+
+* {
+	font-family: Arial;
+	text-align: center;
+    color:rgb(0, 0, 0);
+}
+
+
+.container{
+    display:inline-block;
+    width: 80%;
+    margin-top: 100px;
+    height: 500px;
+}
+
+.right{
+	float:left;
+    width: 50%;
+	height: 90%;
+}
+img{
+    margin-top: 80px;
+    width: 90%;
+	height: 50%;
+}
+.left {
+	float: left;
+    width: 50%;
+	height: 95%;
+	background-color: #100f0f;
+}
+.hijo{
+    margin-top: 7%;
+	margin-left: 5%;
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+	height: 85%;
+}
+form{
+    text-align: center;
+}
+h1 {
+    font-size:1.5rem;
+    line-height:1.2;
+    margin-bottom:.5rem;
+	text-align: center;
+	padding: 20px;
+	color: rgb(0, 0, 0)
+}
+
+p{
+    margin-bottom:1rem;
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+input {
+	width: calc(90% - 10px);
+	padding: 5px;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 16px;
+    border-color: transparent;
+    background-color: whitesmoke;
+    color: rgb(100, 99, 99);
+}
+
+input[type='submit']{
+	background-color: rgb(21, 90, 8);
+	color: #fff;
+	width: calc(50% - 30px);
+	margin: 0 10%;
+	margin-top: 22px;
+	border: none;
+}
+
+.btn{
+	background-color: rgb(8, 50, 90);
+	color: #fff;
+	padding: 5px;
+	margin: 0 10%;
+	margin-top: 22px;
+	border: none;
+	font-size: 16px;
+	text-decoration: none;
+}
